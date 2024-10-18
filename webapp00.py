@@ -16,7 +16,7 @@ st.header("Começou a ditadura Memphis Depay")
 st.subheader("Sub Cabeçalho")
 
 # Use st.write("") para adicionar um texto ao seu Web app
-st.write("Como já deve ter percebido, o método st.write() é usado para escrita de texto e informações gerais!")
+st.write("Como já deve ter percebido, o Memphis é craque de bola, imagina as assistências do Lionel Garro.")
 
-values = st.slider("Select a range of values", 0.0, 100.0, (5.0, 15.0))
+values = st.slider("Selecione de quantos gols o Corinthians vai ganhar do Flamengo:", 0.0, 100.0, (5.0, 15.0))
 st.write("Values:", values)
